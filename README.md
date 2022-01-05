@@ -5,6 +5,7 @@
 1. 直播源: https://github.com/iptv-org/iptv
 2. U盘启动: https://github.com/ventoy/Ventoy
 3. Motrix: https://github.com/agalwood/Motrix
-4. Project V: https://github.com/v2fly/v2ray-core
-5. 网速显示: https://github.com/zhongyang219/TrafficMonitor
-6. Windows激活: https://github.com/TGSAN/CMWTAT_Digital_Edition
+4. R2S固件：https://github.com/DHDAXCW/NanoPi-R2S
+5. Project V: https://github.com/v2fly/v2ray-core
+6. 网速显示: https://github.com/zhongyang219/TrafficMonitor
+7. Windows激活: https://github.com/TGSAN/CMWTAT_Digital_Edition
