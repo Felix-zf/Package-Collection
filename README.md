@@ -2,4 +2,5 @@
 常用软件包合集
 ## 链接
 
-1. 网速显示: https://github.com/zhongyang219/TrafficMonitor
+1. 直播源: https://github.com/iptv-org/iptv
+2. 网速显示: https://github.com/zhongyang219/TrafficMonitor
