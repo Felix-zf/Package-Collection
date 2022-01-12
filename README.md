@@ -6,7 +6,7 @@
 2. U盘启动: https://github.com/ventoy/Ventoy
 3. Motrix: https://github.com/agalwood/Motrix
 4. Project V: https://github.com/v2fly/v2ray-core
-5. qBittorrent：https://github.com/qbittorrent/qBittorrent
-6. R2S固件：https://github.com/DHDAXCW/NanoPi-R2S
+5. R2S固件：https://github.com/DHDAXCW/NanoPi-R2S
+6. qBittorrent：https://github.com/qbittorrent/qBittorrent
 7. 网速显示: https://github.com/zhongyang219/TrafficMonitor
 8. Windows激活: https://github.com/TGSAN/CMWTAT_Digital_Edition
