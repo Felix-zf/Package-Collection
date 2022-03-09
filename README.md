@@ -4,7 +4,7 @@
 
 1. 直播源: https://github.com/iptv-org/iptv
 2. U盘启动: https://github.com/ventoy/Ventoy
-3. Motrix: https://github.com/agalwood/Motrix
+3. Trackers: https://github.com/ngosang/trackerslist
 4. Project V: https://github.com/v2fly/v2ray-core
 5. R2S固件：https://github.com/DHDAXCW/NanoPi-R2S
 6. qBittorrent：https://github.com/qbittorrent/qBittorrent
