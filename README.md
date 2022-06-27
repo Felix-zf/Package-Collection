@@ -3,7 +3,7 @@
 ## 链接
 
 1. 直播源: https://github.com/iptv-org/iptv
-2. U盘启动: https://github.com/ventoy/Ventoy
+2. U盘启动: https://github.com/ventoy/Ventoy  /**or Rufus */
 3. Project V: https://github.com/v2fly/v2ray-core
 4. Trackers: https://github.com/ngosang/trackerslist
 5. R2S固件：https://github.com/DHDAXCW/NanoPi-R2S
