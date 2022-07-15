@@ -10,3 +10,4 @@
 6. qBittorrent：https://github.com/qbittorrent/qBittorrent
 7. 网速显示: https://github.com/zhongyang219/TrafficMonitor
 8. Windows激活: https://github.com/TGSAN/CMWTAT_Digital_Edition
+9. XDM: https://github.com/subhra74/xdm
